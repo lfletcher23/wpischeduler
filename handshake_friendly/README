@@ -1,0 +1,13 @@
+Alright here's the deal:
+
+Old Planner reads in a file called new.schedb, which can't be automatically generated from Handshake (yet)
+
+I read in the Handshake courses by exporting it to a sheet and have been working on getting it formatted correctly
+
+Right now it sort of works, but certain courses cause it to fail for no reason apparent to me. Basically certain classes will make it so that no classes below them in the input file will show up. Not sure why this is happening.
+
+The "closest to working" has a lot of the classes in the right format and none of the ones that cause it to fail
+
+Also the naming is sort of a mess because I just did a quick thing to pull the names
+
+And labs/lectures/conferences are all separate right now
